@@ -1,3 +1,7 @@
 /*.pyc
 .project
 .pydevproject
+/*.log
+/*.tex
+/X.txt
+/y.txt
